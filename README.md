@@ -1,1 +1,2 @@
-# hello_world i,m petronijm fnd study this
+# hello_world 
+i,m petronijm and i study this
